@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bcb79da-19f3-4feb-adc9-9c4aa8402e80" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7bcb79da-19f3-4feb-adc9-9c4aa8402e80" name="Default" comment="" />
     <ignored path="graphsvis.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -296,12 +293,12 @@
       <workItem from="1466796056629" duration="240000" />
       <workItem from="1466803296162" duration="5212000" />
       <workItem from="1467037864382" duration="15000" />
-      <workItem from="1467037886577" duration="14000" />
+      <workItem from="1467037886577" duration="67000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21360000" />
+    <option name="totallyTimeSpent" value="21413000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="23" width="1400" height="782" extended-state="0" />
