@@ -10,7 +10,7 @@
  * networks as desired!
  */
 
-import MultiGraph from "MultiGraph";
+import {MultiGraph} from "./MultiGraph";
 
 let _multiGraph = new WeakMap();
 
